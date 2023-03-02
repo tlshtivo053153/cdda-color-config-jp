@@ -100,6 +100,7 @@ Cataclysm:DDAの色テーマ、色設定テンプレート。
 
 変更した `config/base_colors.json` をゲームから選択できるようにするためには
 `data/raw/color_themes/` フォルダに配置する。
+`base_colors.json` を適切な名前に変更する。
 
 色の確認をしながら変更したい場合は、
 「rgb ツール」などのワードで検索を行い、適当なツールを使うとよい。
@@ -110,3 +111,4 @@ Cataclysm:DDAの色テーマ、色設定テンプレート。
 
 変更した設定をゲームから選択できるようにするためには
 `config/custom_colors.json`を `data/raw/color_themes/` フォルダに配置する。
+`custom_colors.json` を適切な名前に変更する。
