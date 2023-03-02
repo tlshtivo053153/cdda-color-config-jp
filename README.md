@@ -16,19 +16,35 @@ Cataclysm:DDAの色テーマ、色設定テンプレート。
 `f` キーでフィルタも可能。
 今回、導入したテーマは以下の5つである。
 
-* base_colors-bright.json
-    * 暗い色を全体的に明るく変更。
-* base_colors-bright_blue.json
-    * 上記の `base_colors-bright.json` から青色を更に明るく見えるように調整。
-* base_colors-accessibility.json
-    * [ここ](https://jfly.uni-koeln.de/colorset/)のカラーユニバーサルデザイン推奨配色セットを参考に作成。
-* base_colors-solarized.json
-    * テキストエディタによく使われているカラーパレットsolarizedを参考にして作成。
-* base_colors-solarized_black.json
-    * 上記の `base_colors-solarized.json` より黒のRGB値を暗く設定した。
+#### base_colors-bright.json
+暗い色を全体的に明るく変更。
 
+![bright](https://raw.githubusercontent.com/tlshtivo053153/cdda-color-config-jp/images/bright.png)
+
+#### base_colors-bright_blue.json
+上記の `base_colors-bright.json` から青色を更に明るく見えるように調整。
+
+![bright blue](https://raw.githubusercontent.com/tlshtivo053153/cdda-color-config-jp/images/bright_blue.png)
+
+#### base_colors-accessibility.json
+![ここ](https://jfly.uni-koeln.de/colorset/)のカラーユニバーサルデザイン推奨配色セットを参考に作成。
+
+![accessibility](https://raw.githubusercontent.com/tlshtivo053153/cdda-color-config-jp/images/accessibility.png)
+
+#### base_colors-solarized.json
+テキストエディタによく使われているカラーパレットsolarizedを参考にして作成。
+
+![solarized](https://raw.githubusercontent.com/tlshtivo053153/cdda-color-config-jp/images/solarized.png)
+
+#### base_colors-solarized_black.json
+上記の `base_colors-solarized.json` より黒のRGB値を暗く設定した。
+
+![solarized black](https://raw.githubusercontent.com/tlshtivo053153/cdda-color-config-jp/images/solarized_black.png)
+
+#### デフォルトの色に戻したいとき
 デフォルト設定に戻したい場合は、 `base_colors-default.json` を選択する。
 
+#### 複数のテーマを用意した理由
 人によって色の見えやすさが異なる他に、ディスプレイの種類、ディスプレイの明るさ、
 周囲の明るさによっても色の見えやすさが変わってくると考えたので複数の色テーマを用意した。
 
