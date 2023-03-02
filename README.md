@@ -27,7 +27,7 @@ Cataclysm:DDAの色テーマ、色設定テンプレート。
 ![bright blue](https://raw.githubusercontent.com/tlshtivo053153/cdda-color-config-jp/images/bright_blue.png)
 
 #### base_colors-accessibility.json
-![ここ](https://jfly.uni-koeln.de/colorset/)のカラーユニバーサルデザイン推奨配色セットを参考に作成。
+[ここ](https://jfly.uni-koeln.de/colorset/)のカラーユニバーサルデザイン推奨配色セットを参考に作成。
 
 ![accessibility](https://raw.githubusercontent.com/tlshtivo053153/cdda-color-config-jp/images/accessibility.png)
 
