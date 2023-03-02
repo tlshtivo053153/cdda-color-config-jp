@@ -1,0 +1,82 @@
+[
+  {
+    "name": "h_black",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_white",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_light_gray",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_dark_gray",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_red",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_green",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_blue",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_cyan",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_magenta",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_brown",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_light_red",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_light_green",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_light_blue",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_light_cyan",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_pink",
+    "custom": "h_black",
+    "invertcustom": ""
+  },
+  {
+    "name": "h_yellow",
+    "custom": "h_black",
+    "invertcustom": ""
+  }
+]
